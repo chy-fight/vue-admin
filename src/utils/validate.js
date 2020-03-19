@@ -35,3 +35,9 @@ export function validateCode(value){
       }
        return true;
 }
+
+
+/**
+*没有使用default时，可以同时声明多个export。
+*文件 import 需要花括号。
+*/
